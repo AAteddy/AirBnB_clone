@@ -7,6 +7,7 @@ This is the console application of the AirBnB web application clone.
 
 ### Storage
 <p>All classes are handled by the abstracted storage engine defined in the FileStorage class </p>
+<p>Here the storage format used is JSON. Data is stored in a JSON format to a file.</p>
 <p>Every time the backend is initialized, HolbertonBnB instantiates an instance of FileStorage called storage. The storage object is loaded/re-loaded from any class instances stored in the JSON file file.json. As class instances are created, updated, or deleted, the storage object is used to register corresponding changes in the file.json.</p>
 
 ### How to start the console
