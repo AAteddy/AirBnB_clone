@@ -2,8 +2,8 @@
 This is the console application of the AirBnB web application clone.
 
 ### Description
-In this repository we are implementing the console application of the AirBnB 
-web application clone. Basically the console will take some basic commands and execute them. A file system was used for the storage of data.
+<p>In this repository I am implementing the console application of the AirBnB web application clone.</p>
+<p>This project is a complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.</p>
 
 ### How to start the console
 To start the console application use the command
